@@ -13,7 +13,7 @@ Follow allong with relevant Zoom Server-to-Server OAuth documentation as we set 
 Clone and install the app and it's dependencies. We'll be using [Express](https://www.npmjs.com/package/express) for a basic Node.js server, [dotenv](https://www.npmjs.com/package/dotenv) for our credentials, [requests](https://www.npmjs.com/package/requests) to make HTTP requests and [nodemon](https://www.npmjs.com/package/nodemon) for easier development refreshing. 
 
 ```bash
-git clone (TO DO)
+git clone (https://github.com/elisalevet/server-to-server-app.git)
 ```
 
 ```bash
@@ -59,7 +59,7 @@ Example:
 accountID=012345
 clientID=1234567890
 clientSecret=13245678901234567890
-userID=me
+userID=me 
 ```
 
 ### Fill out app information.
